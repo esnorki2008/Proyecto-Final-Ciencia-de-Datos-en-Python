@@ -1,0 +1,401 @@
+idarticulo,idcategoria,codigo,nombre,precio_venta,stock,descripcion,imagen,estado
+1,8,EJML6D1A82,Económico Pan Integral,95.82,110,El complemento perfecto para cualquier comida.,img00001.jpg,true
+2,3,RBIRFY8PF2,Calidad Pan Integral,83.72,51,El favorito de todos a un precio accesible.,img00002.jpg,true
+3,9,B0URP6ECZ7,Fresco Chocolate,87.91,107,Disfruta de la mejor calidad en cada bocado.,img00003.jpg,true
+4,1,I2J0WQTJJZ,Importado Chocolate,76.7,6,Cultivado localmente con prácticas sostenibles.,img00004.jpg,true
+5,1,QWI4BZ23VX,Delicioso Vino,5.52,198,Empacado con nutrientes y sabor.,img00005.jpg,true
+6,1,C8C5TXET00,Fresco Vino,84.59,64,De los mejores productores locales.,img00006.jpg,true
+7,4,4Y7RL2HSO3,Fresco Vino,95.32,88,Disfruta de la mejor calidad en cada bocado.,img00007.jpg,true
+8,2,OU6V4W33FN,Económico Vino,39.6,169,El placer indulgente para tus antojos.,img00008.jpg,true
+9,9,U1KK3S6ICB,Delicioso Queso,38.3,24,De los mejores productores locales.,img00009.jpg,true
+10,4,9SBSAOBIV4,Fresco Pan Integral,42.22,101,Empacado con nutrientes y sabor.,img00010.jpg,true
+11,5,3P6MJAUZUL,Calidad Queso,19.77,43,El complemento perfecto para cualquier comida.,img00011.jpg,true
+12,2,T3JXYKI73A,Calidad Helado,24.57,57,Empacado con nutrientes y sabor.,img00012.jpg,true
+13,6,R282YW10IG,Local Salmón,83.48,43,El favorito de todos a un precio accesible.,img00013.jpg,true
+14,10,W7K596RXL2,Económico Vino,31.87,121,La opción más saludable para tu familia.,img00014.jpg,true
+15,1,DZHOA6H9K0,Fresco Salmón,9.15,30,El favorito de todos a un precio accesible.,img00015.jpg,true
+16,4,OGZ7LLTKG2,Económico Pechuga de Pollo,38.05,73,El complemento perfecto para cualquier comida.,img00016.jpg,true
+17,8,D4XSARDT1R,Natural Pechuga de Pollo,49.45,33,El complemento perfecto para cualquier comida.,img00017.jpg,true
+18,6,YA749SKAPJ,Fresco Queso,41.68,145,Empacado con nutrientes y sabor.,img00018.jpg,true
+19,4,ZQA884Q1W3,Local Lechuga,30.73,141,El complemento perfecto para cualquier comida.,img00019.jpg,true
+20,7,WDRAQY1ENA,Calidad Chocolate,25.88,146,Importado directamente para garantizar la frescura.,img00020.jpg,true
+21,4,3G3X5NHFCX,Económico Lechuga,68.53,149,Cultivado localmente con prácticas sostenibles.,img00021.jpg,true
+22,7,WT9S7AS24C,Económico Lechuga,48.49,110,El complemento perfecto para cualquier comida.,img00022.jpg,true
+23,8,JGHIBWH9M6,Delicioso Chocolate,53.37,68,De los mejores productores locales.,img00023.jpg,true
+24,3,9YR1CFCA98,Fresco Helado,46.78,178,El favorito de todos a un precio accesible.,img00024.jpg,true
+25,2,D2OZ7A737T,Natural Detergente,13.07,85,El favorito de todos a un precio accesible.,img00025.jpg,true
+26,4,ANADR4ESDX,Premium Salmón,75.47,75,Cultivado localmente con prácticas sostenibles.,img00026.jpg,true
+27,3,GPTV5TVXU2,Económico Helado,75.18,122,Empacado con nutrientes y sabor.,img00027.jpg,true
+28,9,8K1EHYUOS4,Orgánico Lechuga,1.65,46,Empacado con nutrientes y sabor.,img00028.jpg,true
+29,5,5R1DF1T3AN,Económico Vino,53.07,82,El placer indulgente para tus antojos.,img00029.jpg,true
+30,7,2SV11L3LFG,Local Vino,21.84,47,La opción más saludable para tu familia.,img00030.jpg,true
+31,8,H8Y65RWT90,Natural Pechuga de Pollo,32.94,7,Disfruta de la mejor calidad en cada bocado.,img00031.jpg,true
+32,6,IZITAO9IUL,Premium Pan Integral,64.82,39,El placer indulgente para tus antojos.,img00032.jpg,true
+33,3,WMH8W8Q87R,Natural Queso,9.35,117,Disfruta de la mejor calidad en cada bocado.,img00033.jpg,true
+34,6,WUPWLIVEW0,Delicioso Salmón,58.79,195,Empacado con nutrientes y sabor.,img00034.jpg,true
+35,3,IT7543AAEO,Natural Helado,4.1,21,La opción más saludable para tu familia.,img00035.jpg,true
+36,10,5210692KN1,Calidad Salmón,40.97,103,Cultivado localmente con prácticas sostenibles.,img00036.jpg,true
+37,5,8WCZR44T3A,Premium Chocolate,13.85,125,Cultivado localmente con prácticas sostenibles.,img00037.jpg,true
+38,1,B4X1FQLGWI,Orgánico Queso,68.72,9,Importado directamente para garantizar la frescura.,img00038.jpg,true
+39,8,T08DKDZ4S7,Importado Vino,24.88,200,Cultivado localmente con prácticas sostenibles.,img00039.jpg,true
+40,5,A3112VEVUI,Delicioso Pan Integral,38.17,125,El favorito de todos a un precio accesible.,img00040.jpg,true
+41,4,SI9DJRH25Z,Calidad Queso,77.87,104,Selección premium para nuestros clientes.,img00041.jpg,true
+42,6,GB0BVHGMB6,Importado Detergente,59.34,153,Empacado con nutrientes y sabor.,img00042.jpg,true
+43,6,6XNTLMMCE7,Económico Manzanas,93.84,81,De los mejores productores locales.,img00043.jpg,true
+44,4,HISM0TRF8E,Fresco Queso,89.52,21,El placer indulgente para tus antojos.,img00044.jpg,true
+45,1,XV037GS8RH,Importado Pan Integral,12.14,62,El placer indulgente para tus antojos.,img00045.jpg,true
+46,2,UCM3MTE3FG,Premium Helado,36.67,84,El complemento perfecto para cualquier comida.,img00046.jpg,true
+47,8,GABR07BKXE,Delicioso Pechuga de Pollo,88.88,98,El favorito de todos a un precio accesible.,img00047.jpg,true
+48,6,48QFSV7GSZ,Local Pechuga de Pollo,82.67,101,Disfruta de la mejor calidad en cada bocado.,img00048.jpg,true
+49,7,UPGWEN3LKT,Fresco Lechuga,95.18,64,El complemento perfecto para cualquier comida.,img00049.jpg,true
+50,1,B5Z9ZLLXOR,Calidad Pan Integral,20.37,45,Disfruta de la mejor calidad en cada bocado.,img00050.jpg,true
+51,9,0QFOKF8ZAW,Fresco Lechuga,1.3,176,La opción más saludable para tu familia.,img00051.jpg,true
+52,4,QE3OWOG5PG,Orgánico Pan Integral,11.58,121,Disfruta de la mejor calidad en cada bocado.,img00052.jpg,true
+53,7,1V0GTS5Y09,Económico Chocolate,93.4,29,El favorito de todos a un precio accesible.,img00053.jpg,true
+54,1,RAQLKPE8AQ,Calidad Pan Integral,46.3,130,El placer indulgente para tus antojos.,img00054.jpg,true
+55,2,C75RK64GLN,Importado Helado,84.94,92,Selección premium para nuestros clientes.,img00055.jpg,true
+56,1,QP235YC1E4,Delicioso Pechuga de Pollo,67.39,140,El favorito de todos a un precio accesible.,img00056.jpg,true
+57,9,F61C7HTX3O,Delicioso Pan Integral,93.45,137,La opción más saludable para tu familia.,img00057.jpg,true
+58,6,F2QWLNHV9D,Natural Helado,4.46,50,Selección premium para nuestros clientes.,img00058.jpg,true
+59,8,F3PE8TFQER,Natural Vino,75.04,177,Cultivado localmente con prácticas sostenibles.,img00059.jpg,true
+60,2,RWIUUL2HC3,Natural Helado,8.84,76,El placer indulgente para tus antojos.,img00060.jpg,true
+61,8,6X5XAAYRZT,Natural Chocolate,40.21,79,Empacado con nutrientes y sabor.,img00061.jpg,true
+62,4,AIWVJVYEF8,Fresco Vino,30.12,68,El favorito de todos a un precio accesible.,img00062.jpg,true
+63,5,1DCO1XOFD4,Premium Salmón,61.0,191,El placer indulgente para tus antojos.,img00063.jpg,true
+64,9,5W26LUKIG9,Importado Helado,98.92,68,El placer indulgente para tus antojos.,img00064.jpg,true
+65,5,N0UA2487I7,Premium Lechuga,9.0,122,Selección premium para nuestros clientes.,img00065.jpg,true
+66,5,I841L1JXQ0,Premium Pechuga de Pollo,17.07,60,El complemento perfecto para cualquier comida.,img00066.jpg,true
+67,2,779XA04PYD,Natural Pan Integral,16.92,104,De los mejores productores locales.,img00067.jpg,true
+68,1,HUWVDFMLUJ,Premium Salmón,98.88,43,La opción más saludable para tu familia.,img00068.jpg,true
+69,10,3D4U7E6J32,Fresco Pan Integral,50.34,48,El placer indulgente para tus antojos.,img00069.jpg,true
+70,10,YQZHAALPKB,Natural Lechuga,16.42,42,De los mejores productores locales.,img00070.jpg,true
+71,3,PAY8YBTSM7,Fresco Pan Integral,9.16,54,El placer indulgente para tus antojos.,img00071.jpg,true
+72,10,WOBGL0IMJ8,Calidad Salmón,9.09,145,Importado directamente para garantizar la frescura.,img00072.jpg,true
+73,6,05JWYJ4Z1J,Calidad Pan Integral,39.48,134,De los mejores productores locales.,img00073.jpg,true
+74,5,ZZP9CMGXI1,Premium Chocolate,69.05,147,Cultivado localmente con prácticas sostenibles.,img00074.jpg,true
+75,4,ZHS2KJC01A,Delicioso Detergente,88.26,180,El favorito de todos a un precio accesible.,img00075.jpg,true
+76,7,4Y6KN5TG41,Premium Helado,24.08,23,Selección premium para nuestros clientes.,img00076.jpg,true
+77,10,1JU28L2Y11,Premium Pechuga de Pollo,85.25,157,El favorito de todos a un precio accesible.,img00077.jpg,true
+78,7,ZGKGLBI3KL,Premium Pechuga de Pollo,35.38,42,Cultivado localmente con prácticas sostenibles.,img00078.jpg,true
+79,1,J2UMY4TRJ1,Premium Detergente,94.99,106,Disfruta de la mejor calidad en cada bocado.,img00079.jpg,true
+80,9,ZUCLRAFXZD,Local Queso,66.4,101,El placer indulgente para tus antojos.,img00080.jpg,true
+81,6,FMZF07VULJ,Económico Salmón,51.93,79,Importado directamente para garantizar la frescura.,img00081.jpg,true
+82,1,OZ0G1D2FVV,Orgánico Pechuga de Pollo,58.23,148,De los mejores productores locales.,img00082.jpg,true
+83,1,49RFMNG1SA,Calidad Detergente,20.66,140,Empacado con nutrientes y sabor.,img00083.jpg,true
+84,1,IFSMUC0EKJ,Delicioso Detergente,47.76,48,Importado directamente para garantizar la frescura.,img00084.jpg,true
+85,4,3SNAFRP7ZX,Premium Queso,87.93,161,Disfruta de la mejor calidad en cada bocado.,img00085.jpg,true
+86,9,D4VDSI8VCO,Orgánico Chocolate,63.83,158,Disfruta de la mejor calidad en cada bocado.,img00086.jpg,true
+87,4,LVJR4MU54L,Calidad Helado,84.56,61,El favorito de todos a un precio accesible.,img00087.jpg,true
+88,7,WSLBN4RCMR,Local Salmón,10.18,58,Empacado con nutrientes y sabor.,img00088.jpg,true
+89,8,0L1YW4U5WA,Natural Pechuga de Pollo,74.8,196,El placer indulgente para tus antojos.,img00089.jpg,true
+90,5,VSES5BX8Y0,Económico Vino,80.77,7,Cultivado localmente con prácticas sostenibles.,img00090.jpg,true
+91,1,J10BBKDCNW,Delicioso Pechuga de Pollo,38.1,88,Disfruta de la mejor calidad en cada bocado.,img00091.jpg,true
+92,5,KOSHRD418V,Premium Helado,15.43,191,El placer indulgente para tus antojos.,img00092.jpg,true
+93,7,FZVJREJAY5,Delicioso Pechuga de Pollo,19.73,165,Cultivado localmente con prácticas sostenibles.,img00093.jpg,true
+94,5,QY479MUUWC,Premium Pechuga de Pollo,98.88,93,El favorito de todos a un precio accesible.,img00094.jpg,true
+95,10,TXH253CX9T,Económico Vino,24.57,130,Cultivado localmente con prácticas sostenibles.,img00095.jpg,true
+96,5,Y32BXCC53Y,Calidad Lechuga,9.26,115,El favorito de todos a un precio accesible.,img00096.jpg,true
+97,6,SV8DSO4QZF,Delicioso Chocolate,6.6,174,Cultivado localmente con prácticas sostenibles.,img00097.jpg,true
+98,6,MQTQJ4V8LH,Económico Lechuga,4.84,99,La opción más saludable para tu familia.,img00098.jpg,true
+99,1,PYAYXA2CDJ,Premium Manzanas,17.33,118,De los mejores productores locales.,img00099.jpg,true
+100,8,TUHZDUDZ6Y,Importado Queso,7.31,158,El favorito de todos a un precio accesible.,img00100.jpg,true
+101,5,EO78GBHZV9,Natural Detergente,92.99,36,Importado directamente para garantizar la frescura.,img00101.jpg,true
+102,10,XJFILCQDRB,Natural Vino,96.76,147,Cultivado localmente con prácticas sostenibles.,img00102.jpg,true
+103,2,VIWWEIRHMX,Orgánico Salmón,49.59,102,Cultivado localmente con prácticas sostenibles.,img00103.jpg,true
+104,1,I3B68IZBJW,Premium Pechuga de Pollo,23.62,154,De los mejores productores locales.,img00104.jpg,true
+105,8,H6ZV2R7XT8,Premium Pan Integral,58.44,182,Selección premium para nuestros clientes.,img00105.jpg,true
+106,10,GKWXUYHGCG,Natural Pan Integral,67.76,52,La opción más saludable para tu familia.,img00106.jpg,true
+107,4,AUZ64SD21C,Natural Lechuga,79.65,161,El favorito de todos a un precio accesible.,img00107.jpg,true
+108,9,OMK93846MH,Local Manzanas,60.58,177,De los mejores productores locales.,img00108.jpg,true
+109,10,6G0FFJBLZ9,Delicioso Manzanas,2.44,24,La opción más saludable para tu familia.,img00109.jpg,true
+110,8,STOTJLUIWV,Económico Queso,17.52,29,El complemento perfecto para cualquier comida.,img00110.jpg,true
+111,1,LBOSMMA87V,Natural Chocolate,12.91,12,El placer indulgente para tus antojos.,img00111.jpg,true
+112,8,ACIH8GMPFV,Calidad Manzanas,93.26,14,De los mejores productores locales.,img00112.jpg,true
+113,5,JZ8L844NB5,Fresco Manzanas,72.14,121,De los mejores productores locales.,img00113.jpg,true
+114,4,42Z11JKQU0,Local Chocolate,1.61,199,Selección premium para nuestros clientes.,img00114.jpg,true
+115,1,XJJAX026C0,Premium Detergente,9.86,61,De los mejores productores locales.,img00115.jpg,true
+116,6,BHJC56DSVV,Fresco Chocolate,49.99,110,Selección premium para nuestros clientes.,img00116.jpg,true
+117,7,TSA9AG1P0B,Orgánico Pechuga de Pollo,20.84,5,Empacado con nutrientes y sabor.,img00117.jpg,true
+118,3,GFXQLOPDU5,Orgánico Manzanas,5.64,109,El placer indulgente para tus antojos.,img00118.jpg,true
+119,4,Z98W7RKJWA,Premium Queso,47.15,105,Importado directamente para garantizar la frescura.,img00119.jpg,true
+120,8,HFU46MPN2Q,Calidad Vino,51.12,82,Selección premium para nuestros clientes.,img00120.jpg,true
+121,10,5N7T7BPOC1,Orgánico Queso,65.2,18,El favorito de todos a un precio accesible.,img00121.jpg,true
+122,6,FZUFZAJCA6,Delicioso Pechuga de Pollo,70.04,163,De los mejores productores locales.,img00122.jpg,true
+123,7,C1QVQFEF1U,Económico Vino,13.84,174,Cultivado localmente con prácticas sostenibles.,img00123.jpg,true
+124,7,7A1C8I2MKD,Local Lechuga,90.18,5,Selección premium para nuestros clientes.,img00124.jpg,true
+125,8,L33U96EVF8,Delicioso Salmón,22.08,61,Selección premium para nuestros clientes.,img00125.jpg,true
+126,4,ZD8HPAVX5C,Premium Salmón,2.34,174,El favorito de todos a un precio accesible.,img00126.jpg,true
+127,4,622TMZAP9K,Importado Detergente,29.35,20,La opción más saludable para tu familia.,img00127.jpg,true
+128,4,HL392KM43F,Importado Helado,70.37,8,Empacado con nutrientes y sabor.,img00128.jpg,true
+129,5,8FHYFGYRCJ,Local Lechuga,18.28,125,Importado directamente para garantizar la frescura.,img00129.jpg,true
+130,6,GK8231UDH4,Premium Pan Integral,58.5,41,De los mejores productores locales.,img00130.jpg,true
+131,7,KDVK8HTRPM,Premium Vino,25.33,38,Cultivado localmente con prácticas sostenibles.,img00131.jpg,true
+132,2,DVPPD5BJET,Económico Salmón,30.95,130,El placer indulgente para tus antojos.,img00132.jpg,true
+133,9,WGCFZR9O2S,Fresco Chocolate,32.88,115,El complemento perfecto para cualquier comida.,img00133.jpg,true
+134,6,U4SH21OQXO,Económico Salmón,42.29,105,La opción más saludable para tu familia.,img00134.jpg,true
+135,2,YDK101KX1E,Premium Vino,77.15,50,Disfruta de la mejor calidad en cada bocado.,img00135.jpg,true
+136,1,6XHKD2VG9U,Calidad Salmón,69.06,24,La opción más saludable para tu familia.,img00136.jpg,true
+137,4,3TLKSE2ERO,Delicioso Helado,58.98,17,La opción más saludable para tu familia.,img00137.jpg,true
+138,6,0CV11ZE5JW,Calidad Detergente,70.72,195,El placer indulgente para tus antojos.,img00138.jpg,true
+139,2,KLBH9EMCZ1,Local Salmón,69.4,8,Selección premium para nuestros clientes.,img00139.jpg,true
+140,2,XPZ1YL9BYV,Delicioso Helado,54.27,20,Importado directamente para garantizar la frescura.,img00140.jpg,true
+141,3,DSJ5GZKANX,Fresco Manzanas,93.7,67,Disfruta de la mejor calidad en cada bocado.,img00141.jpg,true
+142,1,ZO7HHT0SDR,Natural Vino,1.51,48,Importado directamente para garantizar la frescura.,img00142.jpg,true
+143,4,G3GCH007QS,Calidad Pechuga de Pollo,60.5,107,El placer indulgente para tus antojos.,img00143.jpg,true
+144,3,N3SB5BK5PG,Natural Pechuga de Pollo,51.33,75,Disfruta de la mejor calidad en cada bocado.,img00144.jpg,true
+145,4,EM5BL909N3,Natural Manzanas,81.53,187,De los mejores productores locales.,img00145.jpg,true
+146,1,4HVPPVYSY7,Natural Lechuga,0.61,96,De los mejores productores locales.,img00146.jpg,true
+147,7,UBMWR7W52Y,Calidad Vino,14.08,198,El complemento perfecto para cualquier comida.,img00147.jpg,true
+148,5,S03X7DSF7O,Local Pan Integral,26.05,150,Importado directamente para garantizar la frescura.,img00148.jpg,true
+149,6,7MI9NK6WID,Orgánico Detergente,22.94,82,El favorito de todos a un precio accesible.,img00149.jpg,true
+150,4,D037SJ2RUN,Fresco Vino,1.28,77,Cultivado localmente con prácticas sostenibles.,img00150.jpg,true
+151,2,AP403RIHNF,Calidad Pechuga de Pollo,18.61,141,El favorito de todos a un precio accesible.,img00151.jpg,true
+152,4,1HAU5B31SE,Premium Detergente,97.04,38,Disfruta de la mejor calidad en cada bocado.,img00152.jpg,true
+153,5,N6X4SP6880,Delicioso Vino,43.96,58,Empacado con nutrientes y sabor.,img00153.jpg,true
+154,2,7T1UMZZKGY,Local Lechuga,53.72,123,Cultivado localmente con prácticas sostenibles.,img00154.jpg,true
+155,1,VMLZ0QDHA4,Delicioso Pan Integral,47.68,70,Disfruta de la mejor calidad en cada bocado.,img00155.jpg,true
+156,2,G0DA2NZSI9,Calidad Lechuga,42.67,16,La opción más saludable para tu familia.,img00156.jpg,true
+157,7,3S9Q7CF21X,Fresco Salmón,77.95,32,Cultivado localmente con prácticas sostenibles.,img00157.jpg,true
+158,3,CARY5D3UDL,Orgánico Lechuga,55.09,132,De los mejores productores locales.,img00158.jpg,true
+159,1,5U669A4MML,Fresco Chocolate,49.56,77,El favorito de todos a un precio accesible.,img00159.jpg,true
+160,2,NAUOGSN9R5,Delicioso Lechuga,90.39,145,Cultivado localmente con prácticas sostenibles.,img00160.jpg,true
+161,3,LOZH7PPHPG,Premium Manzanas,29.23,75,Selección premium para nuestros clientes.,img00161.jpg,true
+162,4,KVPERYTVM7,Delicioso Manzanas,28.51,26,El placer indulgente para tus antojos.,img00162.jpg,true
+163,9,NE3YW5DPLN,Local Manzanas,53.56,88,El placer indulgente para tus antojos.,img00163.jpg,true
+164,7,TCPG9BJZLB,Económico Queso,27.73,71,Disfruta de la mejor calidad en cada bocado.,img00164.jpg,true
+165,3,AUY6AH0C7P,Natural Pan Integral,62.85,27,El complemento perfecto para cualquier comida.,img00165.jpg,true
+166,3,I9VBC00Z53,Fresco Lechuga,24.22,66,El placer indulgente para tus antojos.,img00166.jpg,true
+167,2,JS61N7AN6D,Orgánico Helado,36.84,32,Selección premium para nuestros clientes.,img00167.jpg,true
+168,6,PRWR3FRWSY,Importado Chocolate,74.47,107,Disfruta de la mejor calidad en cada bocado.,img00168.jpg,true
+169,8,4PWZ11MGV9,Fresco Pan Integral,65.2,157,Cultivado localmente con prácticas sostenibles.,img00169.jpg,true
+170,4,AMJJ7UA25B,Local Pan Integral,90.32,116,El favorito de todos a un precio accesible.,img00170.jpg,true
+171,7,VLUEAR3UVP,Importado Detergente,83.24,9,De los mejores productores locales.,img00171.jpg,true
+172,10,LYJ3OZE1D2,Calidad Vino,43.67,106,La opción más saludable para tu familia.,img00172.jpg,true
+173,9,7Y98VUF1VI,Fresco Pechuga de Pollo,46.96,22,Selección premium para nuestros clientes.,img00173.jpg,true
+174,9,OQD2MVRCS8,Importado Pan Integral,96.29,24,El favorito de todos a un precio accesible.,img00174.jpg,true
+175,8,WTJVOM0XV8,Delicioso Salmón,6.05,34,La opción más saludable para tu familia.,img00175.jpg,true
+176,6,QJEPURMY6K,Natural Chocolate,44.55,12,Disfruta de la mejor calidad en cada bocado.,img00176.jpg,true
+177,7,B4NMM1SQNI,Económico Helado,11.88,147,El complemento perfecto para cualquier comida.,img00177.jpg,true
+178,6,9WBMZG3B0L,Fresco Pechuga de Pollo,18.41,180,El complemento perfecto para cualquier comida.,img00178.jpg,true
+179,8,2EZRT56ER7,Premium Salmón,42.88,128,El favorito de todos a un precio accesible.,img00179.jpg,true
+180,4,C6N35NOR8K,Orgánico Queso,31.87,5,Empacado con nutrientes y sabor.,img00180.jpg,true
+181,7,P1RCUYIPAO,Delicioso Pechuga de Pollo,99.45,167,El placer indulgente para tus antojos.,img00181.jpg,true
+182,1,HYS3E5B3DX,Calidad Vino,45.98,132,Cultivado localmente con prácticas sostenibles.,img00182.jpg,true
+183,4,4X2IXSU84D,Local Queso,30.22,130,Importado directamente para garantizar la frescura.,img00183.jpg,true
+184,10,5BQU1JHN8C,Natural Detergente,83.05,180,Selección premium para nuestros clientes.,img00184.jpg,true
+185,4,PUXE8HTPIX,Importado Helado,71.0,117,Importado directamente para garantizar la frescura.,img00185.jpg,true
+186,1,BOXNYWOCFZ,Premium Lechuga,13.43,42,El placer indulgente para tus antojos.,img00186.jpg,true
+187,8,2VEH4AMRUW,Fresco Salmón,15.39,25,Selección premium para nuestros clientes.,img00187.jpg,true
+188,9,LX37UW8QJU,Importado Salmón,58.74,48,De los mejores productores locales.,img00188.jpg,true
+189,9,X932PVKXEX,Natural Salmón,57.96,37,De los mejores productores locales.,img00189.jpg,true
+190,4,ZM6MS38FHI,Económico Pechuga de Pollo,61.24,94,Disfruta de la mejor calidad en cada bocado.,img00190.jpg,true
+191,7,NMMFKHY6BE,Delicioso Pechuga de Pollo,8.89,164,Selección premium para nuestros clientes.,img00191.jpg,true
+192,8,KYY2SCL6TI,Calidad Helado,72.76,29,La opción más saludable para tu familia.,img00192.jpg,true
+193,7,P1N32EH9UD,Orgánico Salmón,62.08,81,Disfruta de la mejor calidad en cada bocado.,img00193.jpg,true
+194,7,S2XPG74FOL,Importado Lechuga,72.91,129,Cultivado localmente con prácticas sostenibles.,img00194.jpg,true
+195,7,SUFRGLJHDC,Importado Vino,72.14,110,Selección premium para nuestros clientes.,img00195.jpg,true
+196,1,NG9P39EMO2,Natural Vino,30.49,129,Selección premium para nuestros clientes.,img00196.jpg,true
+197,2,R2IR1MKX24,Económico Salmón,50.87,50,La opción más saludable para tu familia.,img00197.jpg,true
+198,4,X0V2RQ9MGV,Calidad Chocolate,35.73,50,El favorito de todos a un precio accesible.,img00198.jpg,true
+199,1,7O6HO8SM2V,Local Queso,22.71,199,De los mejores productores locales.,img00199.jpg,true
+200,6,56LRH0HP8C,Natural Pan Integral,44.37,96,Disfruta de la mejor calidad en cada bocado.,img00200.jpg,true
+201,8,WRUKTZT5FR,Premium Manzanas,11.74,200,Cultivado localmente con prácticas sostenibles.,img00201.jpg,true
+202,1,36PJQLPK10,Orgánico Queso,57.1,82,Empacado con nutrientes y sabor.,img00202.jpg,true
+203,7,8SHDUVH72V,Orgánico Salmón,94.76,166,El favorito de todos a un precio accesible.,img00203.jpg,true
+204,10,QQ7R8FTZ8V,Orgánico Manzanas,31.35,165,El placer indulgente para tus antojos.,img00204.jpg,true
+205,7,UGX6NQC6Z1,Natural Pan Integral,74.2,113,Empacado con nutrientes y sabor.,img00205.jpg,true
+206,9,4FNTARRK46,Delicioso Detergente,92.09,3,Importado directamente para garantizar la frescura.,img00206.jpg,true
+207,1,LNURSDUGD9,Calidad Vino,79.54,186,El favorito de todos a un precio accesible.,img00207.jpg,true
+208,2,2NCYN014Q9,Orgánico Helado,45.11,192,Selección premium para nuestros clientes.,img00208.jpg,true
+209,7,DAMQX5ZZIM,Natural Lechuga,43.58,107,La opción más saludable para tu familia.,img00209.jpg,true
+210,8,PVKHNH0YIV,Natural Detergente,30.17,97,De los mejores productores locales.,img00210.jpg,true
+211,9,PIUSB18RVC,Local Pechuga de Pollo,95.85,80,Cultivado localmente con prácticas sostenibles.,img00211.jpg,true
+212,10,1V67V7WWPC,Económico Chocolate,74.63,104,La opción más saludable para tu familia.,img00212.jpg,true
+213,8,E1F4BCOOX0,Importado Detergente,44.4,158,La opción más saludable para tu familia.,img00213.jpg,true
+214,6,2KPUTM8PNF,Orgánico Helado,44.25,108,Disfruta de la mejor calidad en cada bocado.,img00214.jpg,true
+215,10,PWL4IFWDHV,Local Queso,29.71,49,Selección premium para nuestros clientes.,img00215.jpg,true
+216,6,O90P7Z2Q1P,Local Salmón,73.38,97,La opción más saludable para tu familia.,img00216.jpg,true
+217,7,D8U7F8FTJV,Delicioso Helado,59.84,11,Importado directamente para garantizar la frescura.,img00217.jpg,true
+218,10,IRME62JLLG,Natural Manzanas,99.13,196,El complemento perfecto para cualquier comida.,img00218.jpg,true
+219,6,ZA5FV6OMKR,Natural Chocolate,39.28,42,Disfruta de la mejor calidad en cada bocado.,img00219.jpg,true
+220,6,OQCQL2R782,Importado Chocolate,81.92,136,El favorito de todos a un precio accesible.,img00220.jpg,true
+221,3,6MGJLKCX0B,Natural Chocolate,44.21,18,La opción más saludable para tu familia.,img00221.jpg,true
+222,3,XNA9J39NK3,Fresco Chocolate,9.02,84,El placer indulgente para tus antojos.,img00222.jpg,true
+223,7,OOFRQ4TGGQ,Natural Vino,17.51,193,Disfruta de la mejor calidad en cada bocado.,img00223.jpg,true
+224,2,SUJDVLNAYC,Delicioso Pechuga de Pollo,44.07,105,El complemento perfecto para cualquier comida.,img00224.jpg,true
+225,4,CUPOPAE3WZ,Calidad Lechuga,29.31,16,La opción más saludable para tu familia.,img00225.jpg,true
+226,6,0ZY3U70AUU,Premium Vino,94.18,152,El complemento perfecto para cualquier comida.,img00226.jpg,true
+227,5,3719BLURCZ,Local Vino,62.24,131,Cultivado localmente con prácticas sostenibles.,img00227.jpg,true
+228,10,1M55Q2M3RR,Local Helado,64.97,63,Cultivado localmente con prácticas sostenibles.,img00228.jpg,true
+229,3,6KXUQ489G8,Importado Chocolate,9.56,172,Selección premium para nuestros clientes.,img00229.jpg,true
+230,1,NEVCK4EYX6,Fresco Helado,84.08,175,El complemento perfecto para cualquier comida.,img00230.jpg,true
+231,10,S3IJH8IZH4,Premium Pechuga de Pollo,74.98,159,Importado directamente para garantizar la frescura.,img00231.jpg,true
+232,8,6CKX5MN4Y7,Importado Queso,88.32,92,De los mejores productores locales.,img00232.jpg,true
+233,3,C01EY2Z8J1,Natural Chocolate,91.72,131,Selección premium para nuestros clientes.,img00233.jpg,true
+234,1,P2PGRBIGIQ,Premium Pechuga de Pollo,45.85,123,El complemento perfecto para cualquier comida.,img00234.jpg,true
+235,9,44SOFVHTBN,Importado Pechuga de Pollo,15.81,82,De los mejores productores locales.,img00235.jpg,true
+236,1,FV2GVZXRGD,Orgánico Helado,75.78,23,El favorito de todos a un precio accesible.,img00236.jpg,true
+237,10,5P97JDXWKC,Económico Pechuga de Pollo,82.41,25,La opción más saludable para tu familia.,img00237.jpg,true
+238,10,DCA4TUM5VX,Importado Helado,89.93,34,Importado directamente para garantizar la frescura.,img00238.jpg,true
+239,4,NTZ6O54QHH,Premium Salmón,23.3,36,Selección premium para nuestros clientes.,img00239.jpg,true
+240,4,WS8DER2P14,Natural Salmón,81.45,16,Disfruta de la mejor calidad en cada bocado.,img00240.jpg,true
+241,9,ZDTD421MOW,Local Helado,97.9,78,Empacado con nutrientes y sabor.,img00241.jpg,true
+242,4,8A8BKTMG7O,Calidad Detergente,16.96,150,De los mejores productores locales.,img00242.jpg,true
+243,8,UPYHP80ZBH,Orgánico Queso,43.75,199,La opción más saludable para tu familia.,img00243.jpg,true
+244,7,E7VCKK2CUA,Fresco Helado,98.64,129,El placer indulgente para tus antojos.,img00244.jpg,true
+245,3,FKM4OSZCF8,Fresco Queso,99.3,150,Empacado con nutrientes y sabor.,img00245.jpg,true
+246,1,7FJNPW5O1J,Económico Lechuga,60.67,147,El complemento perfecto para cualquier comida.,img00246.jpg,true
+247,2,88B9JAICVQ,Orgánico Manzanas,4.87,59,La opción más saludable para tu familia.,img00247.jpg,true
+248,4,7QA9MMAQ22,Premium Salmón,50.69,165,El placer indulgente para tus antojos.,img00248.jpg,true
+249,1,3IGLQ11O2K,Premium Lechuga,10.49,36,El placer indulgente para tus antojos.,img00249.jpg,true
+250,1,0UI3CNL8XI,Natural Salmón,54.92,182,Disfruta de la mejor calidad en cada bocado.,img00250.jpg,true
+251,4,HKZX77HI6Y,Premium Chocolate,70.03,58,El complemento perfecto para cualquier comida.,img00251.jpg,true
+252,6,ECGZ7B2VHK,Natural Pechuga de Pollo,19.73,44,El complemento perfecto para cualquier comida.,img00252.jpg,true
+253,8,BWRAMLGG34,Premium Pan Integral,54.72,29,El placer indulgente para tus antojos.,img00253.jpg,true
+254,5,FNANXJR8V3,Premium Chocolate,41.09,71,Empacado con nutrientes y sabor.,img00254.jpg,true
+255,4,P9LLKP2V1N,Calidad Chocolate,28.6,123,Cultivado localmente con prácticas sostenibles.,img00255.jpg,true
+256,4,WM596HEFAW,Importado Chocolate,53.91,106,El placer indulgente para tus antojos.,img00256.jpg,true
+257,2,YF8U08699Q,Fresco Chocolate,18.39,145,De los mejores productores locales.,img00257.jpg,true
+258,10,29580ARCHV,Orgánico Salmón,59.7,17,Selección premium para nuestros clientes.,img00258.jpg,true
+259,8,KPZVYV77JX,Premium Pechuga de Pollo,30.4,18,La opción más saludable para tu familia.,img00259.jpg,true
+260,2,ZX76WVBLHE,Local Vino,43.99,92,La opción más saludable para tu familia.,img00260.jpg,true
+261,10,DC91B1G3KV,Premium Queso,78.27,8,El favorito de todos a un precio accesible.,img00261.jpg,true
+262,8,RBX0LGUI75,Calidad Helado,5.51,192,De los mejores productores locales.,img00262.jpg,true
+263,5,QFN2RRBJX7,Económico Helado,42.52,174,Selección premium para nuestros clientes.,img00263.jpg,true
+264,4,67QHYUFG5V,Fresco Chocolate,43.73,58,De los mejores productores locales.,img00264.jpg,true
+265,5,DY7BL8X6YU,Natural Pan Integral,9.22,48,Disfruta de la mejor calidad en cada bocado.,img00265.jpg,true
+266,9,M68Y1QXTZB,Importado Manzanas,5.76,87,Importado directamente para garantizar la frescura.,img00266.jpg,true
+267,8,IOBZHE83NV,Fresco Detergente,74.64,184,El complemento perfecto para cualquier comida.,img00267.jpg,true
+268,10,JDP4ZD5C8M,Económico Helado,78.77,101,El placer indulgente para tus antojos.,img00268.jpg,true
+269,6,I9HSS135I3,Fresco Detergente,75.1,143,Importado directamente para garantizar la frescura.,img00269.jpg,true
+270,4,FWT2L27K9T,Delicioso Detergente,38.52,14,El favorito de todos a un precio accesible.,img00270.jpg,true
+271,2,FWJ9WTWCE2,Orgánico Pechuga de Pollo,24.32,155,Disfruta de la mejor calidad en cada bocado.,img00271.jpg,true
+272,1,JFSW7ABX9C,Natural Pechuga de Pollo,13.43,38,De los mejores productores locales.,img00272.jpg,true
+273,6,SVGOVDGIWI,Económico Pan Integral,77.56,112,Cultivado localmente con prácticas sostenibles.,img00273.jpg,true
+274,4,KI71Q4Y6WK,Natural Detergente,15.21,37,El placer indulgente para tus antojos.,img00274.jpg,true
+275,3,J9ITJ6Y153,Local Pechuga de Pollo,84.46,80,Disfruta de la mejor calidad en cada bocado.,img00275.jpg,true
+276,1,NLC398SCAM,Premium Salmón,4.67,157,De los mejores productores locales.,img00276.jpg,true
+277,5,Q9Y514HT0K,Local Pan Integral,9.38,157,Empacado con nutrientes y sabor.,img00277.jpg,true
+278,6,6TZR3KIR2B,Natural Salmón,95.68,101,Selección premium para nuestros clientes.,img00278.jpg,true
+279,7,JTDLM25F1I,Fresco Pan Integral,3.76,128,Selección premium para nuestros clientes.,img00279.jpg,true
+280,9,LL9PVEDYSP,Orgánico Chocolate,65.88,200,Cultivado localmente con prácticas sostenibles.,img00280.jpg,true
+281,4,KXL5LCG0VD,Local Lechuga,92.88,59,Empacado con nutrientes y sabor.,img00281.jpg,true
+282,4,L5KOKGPAE4,Orgánico Vino,34.1,111,La opción más saludable para tu familia.,img00282.jpg,true
+283,1,PO3DRX642G,Premium Detergente,47.24,99,Empacado con nutrientes y sabor.,img00283.jpg,true
+284,2,FLOQ6NDG3K,Natural Queso,79.05,103,De los mejores productores locales.,img00284.jpg,true
+285,7,PHHK2Y71GC,Delicioso Lechuga,61.91,107,Cultivado localmente con prácticas sostenibles.,img00285.jpg,true
+286,7,MZEMQH9HRM,Delicioso Chocolate,1.45,97,El placer indulgente para tus antojos.,img00286.jpg,true
+287,6,UEPNLAHEFF,Económico Salmón,86.21,6,De los mejores productores locales.,img00287.jpg,true
+288,1,DMAKJRSUCA,Calidad Vino,74.17,147,Empacado con nutrientes y sabor.,img00288.jpg,true
+289,1,TCQWWUWCDP,Importado Salmón,70.63,135,El favorito de todos a un precio accesible.,img00289.jpg,true
+290,2,I62UPXMHOL,Económico Salmón,33.09,123,De los mejores productores locales.,img00290.jpg,true
+291,6,806JFVTDRK,Económico Salmón,50.99,182,El complemento perfecto para cualquier comida.,img00291.jpg,true
+292,6,95SAP0OGOT,Económico Lechuga,20.13,177,Importado directamente para garantizar la frescura.,img00292.jpg,true
+293,6,GV1ONAOR95,Importado Salmón,3.58,127,El placer indulgente para tus antojos.,img00293.jpg,true
+294,4,5DCFMN24YC,Orgánico Chocolate,79.24,79,El complemento perfecto para cualquier comida.,img00294.jpg,true
+295,2,C5S8IQ7CHU,Delicioso Pechuga de Pollo,29.13,44,De los mejores productores locales.,img00295.jpg,true
+296,10,EUEYVG5TW4,Delicioso Pan Integral,56.28,25,De los mejores productores locales.,img00296.jpg,true
+297,2,XUZK5KOHWU,Orgánico Pan Integral,35.41,100,De los mejores productores locales.,img00297.jpg,true
+298,7,24EQ85LBCV,Calidad Queso,41.71,193,Importado directamente para garantizar la frescura.,img00298.jpg,true
+299,9,UWEU5CCGB0,Económico Queso,55.14,138,Cultivado localmente con prácticas sostenibles.,img00299.jpg,true
+300,5,4SUMSW0V84,Natural Pan Integral,81.83,34,Empacado con nutrientes y sabor.,img00300.jpg,true
+301,6,310ELR2XC5,Económico Salmón,21.88,129,Selección premium para nuestros clientes.,img00301.jpg,true
+302,10,ZDXR18JLHG,Orgánico Chocolate,90.94,109,El complemento perfecto para cualquier comida.,img00302.jpg,true
+303,2,J2ANDBHX78,Premium Salmón,38.89,171,El complemento perfecto para cualquier comida.,img00303.jpg,true
+304,9,O91KEJHWS0,Natural Pechuga de Pollo,4.36,150,Cultivado localmente con prácticas sostenibles.,img00304.jpg,true
+305,7,UDVMI2GXAM,Natural Chocolate,44.91,65,El favorito de todos a un precio accesible.,img00305.jpg,true
+306,3,UI955HJYR9,Fresco Detergente,99.5,189,El favorito de todos a un precio accesible.,img00306.jpg,true
+307,8,PXNB61CKRS,Calidad Detergente,76.15,134,El complemento perfecto para cualquier comida.,img00307.jpg,true
+308,7,KDBF8OU1LG,Importado Pechuga de Pollo,80.95,48,De los mejores productores locales.,img00308.jpg,true
+309,1,J7336IKMOB,Económico Salmón,76.61,165,El placer indulgente para tus antojos.,img00309.jpg,true
+310,8,0DQWAHDIVU,Premium Helado,5.79,44,Importado directamente para garantizar la frescura.,img00310.jpg,true
+311,8,W9ENXRUTMW,Natural Vino,36.29,25,Disfruta de la mejor calidad en cada bocado.,img00311.jpg,true
+312,2,B1UKDJKBW3,Económico Salmón,30.03,104,Importado directamente para garantizar la frescura.,img00312.jpg,true
+313,3,R2U7C518ER,Fresco Manzanas,13.89,73,El favorito de todos a un precio accesible.,img00313.jpg,true
+314,1,TNLCIAZEHP,Orgánico Queso,68.93,80,De los mejores productores locales.,img00314.jpg,true
+315,6,NDZZUTQZGP,Orgánico Pechuga de Pollo,40.73,183,La opción más saludable para tu familia.,img00315.jpg,true
+316,9,0DGXIIYF1E,Premium Helado,24.9,28,El favorito de todos a un precio accesible.,img00316.jpg,true
+317,8,YWX52GBXRU,Fresco Pechuga de Pollo,19.35,163,Empacado con nutrientes y sabor.,img00317.jpg,true
+318,6,LEWY4W6BNV,Natural Vino,23.41,181,El favorito de todos a un precio accesible.,img00318.jpg,true
+319,2,T2K2ZA62PZ,Económico Manzanas,77.3,15,El favorito de todos a un precio accesible.,img00319.jpg,true
+320,1,NAXP3AE2BW,Orgánico Pechuga de Pollo,40.34,84,De los mejores productores locales.,img00320.jpg,true
+321,8,SA7YRPQ2X0,Orgánico Detergente,76.94,106,El placer indulgente para tus antojos.,img00321.jpg,true
+322,9,HIZROSOEPO,Calidad Pechuga de Pollo,99.72,111,Selección premium para nuestros clientes.,img00322.jpg,true
+323,8,OPZCRM947X,Económico Chocolate,22.84,105,El favorito de todos a un precio accesible.,img00323.jpg,true
+324,6,B6G151MQVR,Natural Manzanas,12.37,49,Selección premium para nuestros clientes.,img00324.jpg,true
+325,4,K813EYCC7R,Importado Queso,11.8,159,Cultivado localmente con prácticas sostenibles.,img00325.jpg,true
+326,4,L15M918FK3,Premium Detergente,61.4,107,Importado directamente para garantizar la frescura.,img00326.jpg,true
+327,8,SRYXYNR3ZK,Delicioso Salmón,27.5,162,El placer indulgente para tus antojos.,img00327.jpg,true
+328,5,KJBQ20WAQY,Local Manzanas,99.11,188,Empacado con nutrientes y sabor.,img00328.jpg,true
+329,3,S0MWJHBZT2,Calidad Salmón,72.72,170,El placer indulgente para tus antojos.,img00329.jpg,true
+330,8,7FU56PU5CL,Delicioso Vino,39.71,156,Selección premium para nuestros clientes.,img00330.jpg,true
+331,8,PDM7LHAMSN,Natural Salmón,11.22,194,El complemento perfecto para cualquier comida.,img00331.jpg,true
+332,1,GDBVUUN5OG,Económico Chocolate,71.55,182,Disfruta de la mejor calidad en cada bocado.,img00332.jpg,true
+333,10,E8PN9YTLM4,Fresco Vino,48.53,131,Cultivado localmente con prácticas sostenibles.,img00333.jpg,true
+334,2,AKH24URO3A,Local Lechuga,27.68,11,El placer indulgente para tus antojos.,img00334.jpg,true
+335,5,JFWNGM7WO6,Local Detergente,54.12,143,Importado directamente para garantizar la frescura.,img00335.jpg,true
+336,3,7DTVL9VZAZ,Económico Pechuga de Pollo,49.5,94,Selección premium para nuestros clientes.,img00336.jpg,true
+337,10,TMKMU2TXK0,Económico Detergente,39.41,28,De los mejores productores locales.,img00337.jpg,true
+338,5,K9EE57663L,Local Helado,52.34,30,La opción más saludable para tu familia.,img00338.jpg,true
+339,7,8Y9R1WLLAZ,Fresco Chocolate,61.6,61,La opción más saludable para tu familia.,img00339.jpg,true
+340,1,64TGEU1KKR,Orgánico Lechuga,31.81,8,El complemento perfecto para cualquier comida.,img00340.jpg,true
+341,3,46LCSBUAE2,Orgánico Vino,55.23,5,El placer indulgente para tus antojos.,img00341.jpg,true
+342,6,XULHVLU4YW,Orgánico Vino,32.02,22,El placer indulgente para tus antojos.,img00342.jpg,true
+343,9,7CV9EJS942,Delicioso Pan Integral,18.97,121,Cultivado localmente con prácticas sostenibles.,img00343.jpg,true
+344,1,NWYO3XWR1R,Calidad Queso,62.2,97,La opción más saludable para tu familia.,img00344.jpg,true
+345,2,AQ2D6FQHNL,Local Chocolate,92.41,135,Cultivado localmente con prácticas sostenibles.,img00345.jpg,true
+346,9,J5SQSN4MJ5,Local Helado,37.35,79,El placer indulgente para tus antojos.,img00346.jpg,true
+347,3,V8VBXC56SR,Local Helado,20.02,15,El placer indulgente para tus antojos.,img00347.jpg,true
+348,10,P494RNLWEV,Fresco Pechuga de Pollo,78.15,105,El favorito de todos a un precio accesible.,img00348.jpg,true
+349,6,112ZOS5GZO,Fresco Helado,4.08,66,Selección premium para nuestros clientes.,img00349.jpg,true
+350,2,4LR5CDCZRL,Delicioso Chocolate,82.57,111,Cultivado localmente con prácticas sostenibles.,img00350.jpg,true
+351,6,LT2Q92JTMC,Calidad Detergente,1.3,5,De los mejores productores locales.,img00351.jpg,true
+352,1,YZOWXBYC7I,Económico Pechuga de Pollo,99.16,100,Selección premium para nuestros clientes.,img00352.jpg,true
+353,2,VFRJ1W5GJA,Importado Vino,67.27,173,De los mejores productores locales.,img00353.jpg,true
+354,10,NW5MQKA4SO,Orgánico Manzanas,70.99,115,Selección premium para nuestros clientes.,img00354.jpg,true
+355,7,CU0CMWZC7V,Natural Lechuga,83.75,153,Selección premium para nuestros clientes.,img00355.jpg,true
+356,6,G12OFNSD16,Natural Manzanas,65.84,31,Disfruta de la mejor calidad en cada bocado.,img00356.jpg,true
+357,2,SEL44EY4YF,Premium Salmón,27.33,146,El complemento perfecto para cualquier comida.,img00357.jpg,true
+358,2,8DB0XLCKBM,Económico Detergente,33.59,141,Selección premium para nuestros clientes.,img00358.jpg,true
+359,4,DOEMZW5SV2,Económico Salmón,27.46,120,Disfruta de la mejor calidad en cada bocado.,img00359.jpg,true
+360,4,EZHGZL47YP,Natural Helado,63.97,14,Disfruta de la mejor calidad en cada bocado.,img00360.jpg,true
+361,10,PL6ALT787K,Natural Lechuga,75.81,134,La opción más saludable para tu familia.,img00361.jpg,true
+362,5,J3URIYVYUN,Calidad Queso,22.51,68,Selección premium para nuestros clientes.,img00362.jpg,true
+363,6,65LYMRVCOK,Orgánico Pan Integral,4.61,107,Empacado con nutrientes y sabor.,img00363.jpg,true
+364,1,Y9C83IKKSP,Local Vino,6.69,135,Empacado con nutrientes y sabor.,img00364.jpg,true
+365,4,9H5RZYVNT1,Importado Helado,66.89,160,Empacado con nutrientes y sabor.,img00365.jpg,true
+366,10,9L6UURBCE3,Orgánico Pan Integral,86.13,47,El complemento perfecto para cualquier comida.,img00366.jpg,true
+367,4,A0I9LH1U06,Económico Chocolate,47.93,23,El favorito de todos a un precio accesible.,img00367.jpg,true
+368,4,RJEGMD0YBQ,Fresco Queso,44.12,74,Disfruta de la mejor calidad en cada bocado.,img00368.jpg,true
+369,5,6O1SAW1IID,Natural Vino,17.25,32,Empacado con nutrientes y sabor.,img00369.jpg,true
+370,3,HBT5HWHUEA,Importado Manzanas,23.66,138,La opción más saludable para tu familia.,img00370.jpg,true
+371,6,PWU6XB68SU,Calidad Pan Integral,27.75,49,Cultivado localmente con prácticas sostenibles.,img00371.jpg,true
+372,4,RI368KW0Z4,Local Lechuga,25.41,147,El placer indulgente para tus antojos.,img00372.jpg,true
+373,2,F38D43HWEX,Natural Chocolate,83.67,83,Disfruta de la mejor calidad en cada bocado.,img00373.jpg,true
+374,1,VJO9RRDMCM,Calidad Helado,44.8,84,El complemento perfecto para cualquier comida.,img00374.jpg,true
+375,5,6S6DCLG6B9,Orgánico Salmón,68.64,59,El favorito de todos a un precio accesible.,img00375.jpg,true
+376,1,W2PPGQ1YPH,Delicioso Manzanas,21.87,96,Empacado con nutrientes y sabor.,img00376.jpg,true
+377,4,QSJ132E9QU,Importado Lechuga,59.2,63,Disfruta de la mejor calidad en cada bocado.,img00377.jpg,true
+378,3,DFZZ6ZT7YB,Premium Pan Integral,14.41,121,La opción más saludable para tu familia.,img00378.jpg,true
+379,2,0ATUKDLR14,Importado Vino,42.41,94,El complemento perfecto para cualquier comida.,img00379.jpg,true
+380,5,0LPAOAGOC0,Delicioso Helado,9.2,148,Importado directamente para garantizar la frescura.,img00380.jpg,true
+381,1,4UU63F9VAR,Delicioso Queso,12.72,138,Selección premium para nuestros clientes.,img00381.jpg,true
+382,4,YGP88FCPC5,Fresco Pechuga de Pollo,12.05,179,Empacado con nutrientes y sabor.,img00382.jpg,true
+383,7,48826BQW4D,Calidad Detergente,52.81,128,La opción más saludable para tu familia.,img00383.jpg,true
+384,3,QY1D3BDHHC,Local Detergente,95.62,110,El placer indulgente para tus antojos.,img00384.jpg,true
+385,4,476OKONP8Z,Fresco Pechuga de Pollo,31.88,42,El placer indulgente para tus antojos.,img00385.jpg,true
+386,10,VG8G4QVGB7,Orgánico Chocolate,62.95,154,Importado directamente para garantizar la frescura.,img00386.jpg,true
+387,2,LS66UARJGY,Económico Pechuga de Pollo,86.16,115,Importado directamente para garantizar la frescura.,img00387.jpg,true
+388,3,VM9K8BPWY1,Importado Vino,84.42,133,Importado directamente para garantizar la frescura.,img00388.jpg,true
+389,4,BAVQGVL3UV,Premium Vino,42.65,151,El complemento perfecto para cualquier comida.,img00389.jpg,true
+390,1,KGMQGS9IVQ,Local Manzanas,70.72,58,De los mejores productores locales.,img00390.jpg,true
+391,2,IDRVSZN5N7,Económico Chocolate,15.14,186,Cultivado localmente con prácticas sostenibles.,img00391.jpg,true
+392,3,YOYI4O8X9X,Fresco Detergente,70.58,143,El complemento perfecto para cualquier comida.,img00392.jpg,true
+393,1,K5NS9WMR7M,Delicioso Manzanas,52.32,178,El placer indulgente para tus antojos.,img00393.jpg,true
+394,7,OG6IAC5WFW,Natural Manzanas,99.66,135,El placer indulgente para tus antojos.,img00394.jpg,true
+395,6,6YEYA6CM6O,Natural Vino,89.35,176,El complemento perfecto para cualquier comida.,img00395.jpg,true
+396,9,ZGRTCGNGGP,Natural Queso,37.8,115,La opción más saludable para tu familia.,img00396.jpg,true
+397,8,PQLR9D7NW6,Calidad Pan Integral,19.07,3,Importado directamente para garantizar la frescura.,img00397.jpg,true
+398,9,GU56SOR5SB,Orgánico Pan Integral,31.92,3,El complemento perfecto para cualquier comida.,img00398.jpg,true
+399,5,8YEVGW0YWR,Local Pechuga de Pollo,11.95,183,El placer indulgente para tus antojos.,img00399.jpg,true
+400,2,WPXBQQTRL6,Delicioso Manzanas,8.53,16,El placer indulgente para tus antojos.,img00400.jpg,true

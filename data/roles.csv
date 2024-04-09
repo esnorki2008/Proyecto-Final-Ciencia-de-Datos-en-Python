@@ -1,0 +1,6 @@
+idrol,nombre,descripcion,estado
+1,Administrador,Gestiona configuraciones y usuarios.,true
+2,Gerente,Responsable de la gestión y las operaciones diarias.,true
+3,Cajero,"Opera la caja, procesa pagos y emite recibos.",true
+4,Reponedor,Reabastece los productos y organiza estantes.,true
+5,Analista,Analiza datos de ventas y gestiona inventario.,true

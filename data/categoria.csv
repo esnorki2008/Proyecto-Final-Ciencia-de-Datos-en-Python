@@ -1,0 +1,11 @@
+idcategoria,nombre,descripcion,estado
+1,Frutas,Frutas frescas y secas,true
+2,Verduras,Verduras y hortalizas frescas,true
+3,Carnes,Carnes rojas y blancas,true
+4,Pescados,Pescados y mariscos,true
+5,Lácteos,"Leche, yogures y quesos",true
+6,Panadería,"Pan, galletas y pastas",true
+7,Bebidas,Bebidas alcohólicas y no alcohólicas,true
+8,Limpieza,Productos de limpieza para el hogar,true
+9,Snacks,Snacks y golosinas,true
+10,Congelados,Productos congelados y helados,true
