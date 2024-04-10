@@ -73,6 +73,7 @@ CREATE TABLE fact_ventas (
     usuario_id INT,
     categoria_id INT,
     -- Aquí puedes agregar claves foráneas a las dimensiones correspondientes
+    FOREIGN KEY (fecha) REFERENCES dim_tiempo(fecha),
     FOREIGN KEY (articulo_id) REFERENCES dim_articulo(articulo_id),
     FOREIGN KEY (cliente_id) REFERENCES dim_cliente(cliente_id),
     FOREIGN KEY (usuario_id) REFERENCES dim_usuario(usuario_id),
